@@ -48,6 +48,6 @@ stallRPM represents the RPM below which the car stalls. The default value of 950
 
 Generally, a combination of high bite point value (thus the clutch disengages when pressed much deeper) and high stall RPM will make for a bigger car launch/balancing challenge. 
 
-Have fun, and if you have any comments, issues, or feedback, drop them here on the issues tab or on [my Patreon](www.patreon.com/IanOmondi) or [Everlost's Patreon](https://www.patreon.com/posts/assetto-corsa-99700598).
+Have fun, and if you have any comments, issues, or feedback, drop them here on the issues tab or on [my Patreon](www.patreon.com/IanOmondi) or [Everlost's Patreon](https://www.patreon.com/posts/assetto-corsa-99700598). This script will also be bundled with the [anti-lag mod](https://www.patreon.com/posts/102221221) on Everlost's Patreon page.
 
 Cheers!
