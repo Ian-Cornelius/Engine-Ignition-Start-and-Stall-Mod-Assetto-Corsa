@@ -7,6 +7,8 @@ Everlost has done an incredible job with this mod. I've picked it up to fix spec
 
 This mod can be used individually by following the installation instructions provided when installing and by car modders, in both cases by including the full set of files (this script and the other assets available on Everlost's Patreon page). All files are FREE and installation is quick. 
 
+Before installation, kindly check Everlost's Patreon page with the mod (linked above). This script comes automatically bundled with it for versions above 2.1 of the original mod. Everything is FREE. Using the bundled file will be much quicker.
+
 
 
 
