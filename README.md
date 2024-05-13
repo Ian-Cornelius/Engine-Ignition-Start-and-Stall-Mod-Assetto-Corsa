@@ -5,7 +5,7 @@ A mod to enable engine ignition, start, and stall for h-pattern and manual clutc
 
 Everlost has done an incredible job with this mod. I've picked it up to fix specific bugs it had with clutch behavior, gear changes, and stalling. The script has been tested on a h-pattern and sequential gearbox, with manual launch, and it works great so far. If you spot an issue or have a feature request, just raise an issue here or [send me a message on Patreon](www.patreon.com/IanOmondi) and I'll look at it. Or, contribute and submit a PR.
 
-This mod can be used individually by following the installation instructions provided when installing and by car modders, in both cases by including the full set of files (this script and the other assets available on Everlost's Patreon page). All files are FREE and installation is quick. 
+This mod can be used individually and by car modders by following the installation instructions provided when installing, in both cases by including the full set of files (this script and the other assets available on Everlost's Patreon page). All files are FREE and installation is quick. 
 
 **Before installation**, kindly check Everlost's Patreon page with the mod (linked above). This script comes automatically bundled with it for versions above 2.1 of the original mod. Everything is FREE. Using the bundled file will be much quicker.
 
