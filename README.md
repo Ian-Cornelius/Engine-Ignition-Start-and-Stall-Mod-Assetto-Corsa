@@ -1,9 +1,9 @@
 # Engine-Ignition-Start-and-Stall-Mod-Assetto-Corsa
-A mod to enable engine ignition, start, and stall for h-pattern and manual clutch vehicles in Assetto Corsa. Enhancement of the (original work by Everlost)[https://www.patreon.com/posts/assetto-corsa-99700598]. 
+A mod to enable engine ignition, start, and stall for h-pattern and manual clutch vehicles in Assetto Corsa. Enhancement of the [original work by Everlost](https://www.patreon.com/posts/assetto-corsa-99700598). 
 
 ## General Information
 
-Everlost has done an incredible job with this mod. I've picked it up to fix specific bugs it had with clutch behavior, gear changes, and stalling. The script has been tested on a h-pattern and sequential gearbox, with manual launch, and it works great so far. If you spot an issue or have a feature request, just raise an issue here or (send me a message on Patreon)[www.patreon.com/IanOmondi] and I'll look at it. Or, contribute and submit a PR.
+Everlost has done an incredible job with this mod. I've picked it up to fix specific bugs it had with clutch behavior, gear changes, and stalling. The script has been tested on a h-pattern and sequential gearbox, with manual launch, and it works great so far. If you spot an issue or have a feature request, just raise an issue here or [send me a message on Patreon](www.patreon.com/IanOmondi) and I'll look at it. Or, contribute and submit a PR.
 
 This mod can be used individually by following the installation instructions provided when installing and by car modders, in both cases by including the full set of files (this script and the other assets available on Everlost's Patreon page). All files are FREE and installation is quick. 
 
@@ -17,7 +17,7 @@ This mod can be used individually by following the installation instructions pro
 
 ## Installation
 
-Everlost has an elaborate installation video over on his (YouTube channel)[https://www.youtube.com/watch?v=B1rOc_Oanfk]. I advise you to watch it first to get a full understanding of the installation process. But here's the TLDR. 
+Everlost has an elaborate [installation video](https://www.youtube.com/watch?v=B1rOc_Oanfk) over on his YouTube channel. I advise you to watch it first to get a full understanding of the installation process. But here's the TLDR. 
 
 (You can safely combine the script.lua file here with other assets in Everlost's Patreon post as long as you're installing version 2.1. Versions above 2.1 should have this script bundled with it)
 
@@ -29,7 +29,7 @@ Select the car you want to install the mod to, then after returning to the drive
 
 ### 2. Modify the ext_config file
 
-If you've only downloaded script.lua from here, then head over to Everlost's Patreon and (download the full mod)[https://www.patreon.com/posts/assetto-corsa-99700598] with all assets. 
+If you've only downloaded script.lua from here, then head over to Everlost's Patreon and [download the full mod](https://www.patreon.com/posts/assetto-corsa-99700598) with all assets. 
 
 When you pack the data, content manager should automatically open the vehicle's folder. Open the extension folder and copy the code inside the file 'add this data to ext_config' to the end of the car's ext_config file. Then, copy the remaining files into the folder.
 
@@ -48,6 +48,6 @@ stallRPM represents the RPM below which the car stalls. The default value of 950
 
 Generally, a combination of high bite point value (thus the clutch disengages when pressed much deeper) and high stall RPM will make for a bigger car launch/balancing challenge. 
 
-Have fun, and if you have any comments, issues, or feedback, drop them here on the issues tab or on (my Patreon)[www.patreon.com/IanOmondi] or (Everlost's Patreon)[https://www.patreon.com/posts/assetto-corsa-99700598].
+Have fun, and if you have any comments, issues, or feedback, drop them here on the issues tab or on [my Patreon](www.patreon.com/IanOmondi) or [Everlost's Patreon](https://www.patreon.com/posts/assetto-corsa-99700598).
 
 Cheers!
