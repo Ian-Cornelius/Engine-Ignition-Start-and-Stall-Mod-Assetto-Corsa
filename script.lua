@@ -62,7 +62,7 @@ function script.update(dt)
   end
 
   
-  -- I guess you maintain the stall here
+  -- Maintains the stall here
   if flag == 0 then
     data.rpm = 0
     counter = 0
